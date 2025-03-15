@@ -52,7 +52,7 @@ Helps in predicting future medal trends based on historical data.
 Demonstrated expertise in Power BI, data analysis, and visualization techniques.
 Highlighted ability to extract meaningful insights from large datasets.
 
-#PowerBI #DataAnalytics #Olympics #Dashboard #DataVisualization #BusinessIntelligence #SportsAnalytics #OpenToWork #Hiring
+#PowerBI #DataAnalytics #Olympics #Dashboard #DataVisualization #BusinessIntelligence #SportsAnalytics 
 
 
 
